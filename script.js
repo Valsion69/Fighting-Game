@@ -142,7 +142,7 @@ class Game {
 }
 
 // ** Create 2 players using the player class **
-let player1 = new Player('AJALA : PUBLIC DICK', 100, 10)
+let player1 = new Player('AJALA : Crypto Lord', 100, 10)
 let player2 = new Player('PATRICK : UI/UX DESIGNER',100, 10)
 
 // ** Save original Player Data **
